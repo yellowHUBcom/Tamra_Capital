@@ -1,9 +1,7 @@
 <?php
-// Web-App/admin_dashboard.php
 include('db_connect.php');
 session_start();
 
-// سحب تقرير الإيداعات المتقدم مباشرة من الـ View التي ابتكرتموها بالتقرير[cite: 2]
 $stmt = $conn->prepare("SELECT * FROM DepositMethodSummary");
 $stmt->execute();
 $summaries = $stmt->fetchAll(PDO::FETCH_ASSOC);
