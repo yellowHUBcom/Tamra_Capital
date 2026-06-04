@@ -33,8 +33,8 @@ Our core system engineering emphasizes strict operational security, transactiona
 ## 👩‍💻 Engineering & Development Team
 
 Developed with passion and technical excellence by:
-* **Lama Al-Dreem**
-* **Jouri Al-Shehri**
+* **Lama Al-draim**
+* **Jouri Al-shahrani**
 * **Rahaf Al-Otaibi**
 
 ### 🎓 Academic Alignment
